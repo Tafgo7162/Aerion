@@ -1,0 +1,8 @@
+name: "aerion"
+displayName: "Aerion"
+author: Tafgo7162
+description: "Aerion mod was actually made before, but got abandoned, so that's just new version"
+version: "1.0"
+minGameVersion: "149"
+dependencies: [ ]
+hidden: false
