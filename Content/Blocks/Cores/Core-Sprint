@@ -1,0 +1,20 @@
+type: CoreBlock
+name: Core: Sprint
+description: The core, uses blueprints of erekir's core, making it nearly as strong as it
+  item-Niobium/2500
+]
+isFirstTier: true
+size: 3
+squareSprite: false
+alwaysUnlocked: true
+unitType: CoreUnit-Furious
+health: 2100
+itemCapacity: 5000
+unitCapModifier: 12
+category: effect
+research: {
+  planet: aerion
+  root: true
+  name: Aerion
+  requiresUnlock: false
+}
