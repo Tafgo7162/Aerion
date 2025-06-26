@@ -1,0 +1,17 @@
+{
+	"name": "Niobium",
+	"description": "The first ore you obtain",
+	"color": "#b8bdc2",
+	"research": "niobium",
+	"hardness": 0.9,
+        "lowPriority": "true",
+	"charge": 0.0,
+	"explosiveness": 0.6,
+	"flammability": 0.7,
+	"radioactivity": 0,
+	"cost": 0.2,
+	"hiddenOnPlanets": [
+		serpulo,
+		erekir
+	]
+    }
