@@ -1,0 +1,16 @@
+type: Duct
+name: Niobium conveyor
+description: Transports items, simple as that
+category: distribution
+alwaysUnlocked: true
+research: Core-sprint
+researchCost: [
+  niobium/10
+]
+speed: 20
+health: 40
+bridgeReplacement: 
+requirements: [
+  niobium/1
+]
+junctionReplacement: 
