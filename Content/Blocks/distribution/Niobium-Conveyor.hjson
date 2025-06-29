@@ -5,12 +5,12 @@ category: distribution
 alwaysUnlocked: true
 research: Core-sprint
 researchCost: [
-  niobium/10
+  Niobium/10
 ]
 speed: 20
 health: 40
 bridgeReplacement: 
 requirements: [
-  niobium/1
+  Niobium/1
 ]
 junctionReplacement: 
