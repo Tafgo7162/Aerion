@@ -2,8 +2,8 @@ type: Duct
 name: Niobium conveyor
 description: Transports items, simple as that
 category: distribution
-alwaysUnlocked: true
-research: Core-sprint
+alwaysUnlocked: false
+research: Niobium-conveyor
 researchCost: [
   Niobium/10
 ]
