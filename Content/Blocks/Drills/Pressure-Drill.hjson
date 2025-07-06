@@ -1,0 +1,9 @@
+Type: Drill
+Name: Pressure Drill
+Description: basic drill which uses pressure to mine
+research: {
+  parent: Pressure-Drill
+  requirements: [
+    niobium/40
+    ]
+  }
